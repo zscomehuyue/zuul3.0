@@ -45,7 +45,7 @@ public class GroovyFileFilter implements FilenameFilter {
         return name.endsWith(".groovy");
     }
 
-
+    // FIXME 该类可以复制改造成成自己的动态加载的类good；
     @RunWith(MockitoJUnitRunner.class)
     public static class UnitTest {
 
