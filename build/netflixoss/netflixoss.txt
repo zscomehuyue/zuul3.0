@@ -1,0 +1,2 @@
+com.netflix.zuul:zuul-core:0.1.0-SNAPSHOT
+com.netflix.zuul:zuul-servletapi:0.1.0-SNAPSHOT
